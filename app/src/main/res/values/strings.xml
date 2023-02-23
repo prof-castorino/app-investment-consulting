@@ -12,23 +12,17 @@
 
     <string name="txtSetProduct">Escolha seu produtos</string>
     <string name="validSetProduct">Escolha pelo menos um produto</string>
-    <string name="txtProdName01">Modalidade Renda Fixa</string>
-    <string name="txtProdName02">ModalidadeAções</string>
-    <string name="txtProdName03">Modalidade Fundos de investimento</string>
-
-    <string name="txtProdDesc01">Tipo de investimento: moderado</string>
-    <string name="txtProdDesc02">Tipo de investimento: auto risco</string>
-
-    <string name="txtProdPrice01">Valor mensal R$ 100.00</string>
-    <string name="txtProdPrice02">Valor mensal R$ 500.00</string>
-    <string name="txtProdPrice03">Valor mensal R$ 1500.00</string>
-
-    <string name="txtProdTaxas01">Taxa de 3% do valor da aplicação</string>
-    <string name="txtProdTaxas02">Taxa de 2.5% do valor da aplicação</string>
-    <string name="txtProdTaxas03">Taxa de 1% do valor da aplicação</string>
 
     <string name="txtValorInicial">Valor inicial</string>
-    <string name="txtTaxas">Taxas</string>
-    <string name="txtQtdAuto">0</string>
-    <string name="txtStratum">Cotação</string>
+    <string name="txtTaxas">Encargos (%)</string>
+    <string name="txtStratum">Previsão dos 12 meses</string>
+    <string name="r">R$</string>
+    <string name="tipo_de_investimento">Investimento</string>
+    <string name="modalidade">Modalidade</string>
+    <string name="dados_do_cliente">Dados do Cliente</string>
+    <string name="encargos_r">Encargos R$</string>
+    <string name="valor_de_investimento_r">Valor de investimento R$</string>
+    <string name="percentual_acumulado">Percentual acumulado (%)</string>
+    <string name="valor_acumulado_r">Valor acumulado R$</string>
+    <string name="valor_resgatar_r">Valor á resgatar R$</string>
 </resources>
